@@ -1,0 +1,27 @@
+
+## Title: Guidelime |cff00E5EESevenleaves|r &|cff00E5EETactics|r Leveling Route
+## Author: Sevenleaves and Tactics
+## Version: 0.002-Beta
+## Interface: 11302
+## Dependencies: Guidelime
+## Notes: Created by |cFFFF0000Twitch.tv/7leaves|r &|cff00ff00 Twitch.tv/Tactics_lol|r
+
+1-12.lua
+12-15_Silverpine.lua
+15-18_BarrensStonetalon.lua
+18-21_Barrens.lua
+21-22_AshenvaleRogueQuestSilverpine.lua
+22-24_Hillsbrad.lua
+24-26_BarrensStonetalon.lua
+26-28_AshenvaleBFDsolo.lua
+28-31_ThousandNeedles.lua
+31-36.lua
+36-44.lua
+44-48_Feralas.lua
+48-50.lua
+50-50_Azshara.lua
+50-51_Blasted_Lands.lua
+51-52_Searing_Gorge.lua
+52-52_Burning_Steppes.lua
+52-54_UnGoro_Crater.lua
+54-60_Felwood_and_beyond.lua
