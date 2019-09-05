@@ -1,5 +1,5 @@
 
-## Title: A |cff00E5EESevenleaves|r &|cff00E5EETactics|r Leveling Route
+## Title: Guidelime |cff00E5EESevenleaves|r &|cff00E5EETactics|r Leveling Route
 ## Author: Sevenleaves and Tactics
 ## Version: 0.002-Beta
 ## Interface: 11302
