@@ -38,14 +38,14 @@ Go back and deliver the quest [G65.83,43.85The Barrens][QT873 Isha Awak] and [H 
 
 
 
-Pick up all the quests in Sunrock Retreat, [G16.72,8.83The Barrens][QA6381 New Life], [G16.59,10.17The Barrens][QA6282 Harpies Threaten], [G15.99,9.81The Barrens][QA1087 Cenarius' Legacy] and last [G16.67,11.68The Barrens][QA6393 Elemental War] on the mountain.
-Go north and start picking up Gaea Seed near the lake for the quest [G8.89,14.37The Barrens][QC6381 New Life].
+Pick up all the quests in Sunrock Retreat, [G16.72,8.83The Barrens][QA6301 Cycle of Rebirth], [G16.59,10.17The Barrens][QA6282 Harpies Threaten], [G15.99,9.81The Barrens][QA1087 Cenarius' Legacy] and last [G16.67,11.68The Barrens][QA6393 Elemental War] on the mountain.
+Go north and start picking up Gaea Seed near the lake for the quest [G8.89,14.37The Barrens][QC6301 Cycle of Rebirth].
 Walk further north and do the 2 quests [G6.72,54.06Ashenvale][QC1058 Jin'Zil's Forest Magic] and [G4.11,56.56Ashenvale][QC1087 Cenarius' Legacy], you will have to kill these mobs for these 2 quests. Sap Beast, Twilight Runner, Antlered Courser, Fey Dragon, Son of Cenarius, Daughter of Cenarius, Cenarion Botanist.
 Start walking south, if you didn’t get all 10 Geea Seeds, get the last ones now.[OC]
 Walk into the Vale from the path at the lake to do the quest [G10.84,12.99The Barrens][QC6282 Harpies Threaten], kill the Fire Elementals too whenever you see them.
-Walk back to Sunrock Retreat and deliver [G15.99,9.81The Barrens][QT1087 Cenarius' Legacy], [G16.59,10.17The Barrens][QT6282 Harpies Threaten] and [G16.72,8.83The Barrens][QT6381 New Life] and accept the new quests [G15.99,9.81The Barrens][QA1088 Ordanus], [G16.59,10.17The Barrens][QA6283 Bloodfury Bloodline] and [G16.72,8.83The Barrens][QA6301 Cycle of Rebirth]
-Walk back to the Vale and finish [G9.13,16.04The Barrens][QC6393 Elemental War] and start doing [G17.76,1.82The Barrens][QC6301 Cycle of Rebirth]. Then go and kill [G8.67,10.53The Barrens][QC6283 Bloodfury Ripper], when she enrages she walks really slow, use this to get lots of throwns in and energy back whenever gouge is up.
-Go back and deliver the quests [G16.67,11.68The Barrens][QT6393 Elemental War], [G16.72,8.83The Barrens][QT6301 Cycle of Rebirth] and [G16.59,10.17The Barrens][QT6283 Bloodfury Bloodline]. Accept [G16.59,10.17The Barrens][QA5881 Calling In The Reserves].
+Walk back to Sunrock Retreat and deliver [G15.99,9.81The Barrens][QT1087 Cenarius' Legacy], [G16.59,10.17The Barrens][QT6282 Harpies Threaten] and [G16.72,8.83The Barrens][QT6301 Cycle of Rebirth] and accept the new quests [G15.99,9.81The Barrens][QA1088 Ordanus], [G16.59,10.17The Barrens][QA6283 Bloodfury Bloodline] and [G16.72,8.83The Barrens][QA6381 New Life]
+Walk back to the Vale and finish [G9.13,16.04The Barrens][QC6393 Elemental War] and start doing [G17.76,1.82The Barrens][QC6381 New Life]. Then go and kill [G8.67,10.53The Barrens][QC6283 Bloodfury Ripper], when she enrages she walks really slow, use this to get lots of throwns in and energy back whenever gouge is up.
+Go back and deliver the quests [G16.67,11.68The Barrens][QT6393 Elemental War], [G16.72,8.83The Barrens][QT6381 New Life] and [G16.59,10.17The Barrens][QT6283 Bloodfury Bloodline]. Accept [G16.59,10.17The Barrens][QA5881 Calling In The Reserves].
 Walk over to Ziz Fizziks and accept [G22.28,10.86The Barrens][QA1096 Gerenzo Wrenchwhistle].
 Complete the quest [G24.76,3.04The Barrens][QC1068 Shredding Machines], [QC1086The Flying Machine Airport] and [G24.92,0.09The Barrens][QC1096 Gerenzo Wrenchwhistle].
 Deliver the quest [G22.28,10.86The Barrens][QT1096 Gerenzo Wrenchwhistle] and walk over to Wanted Poster: Besseleth and accept [G86.11,0.01Desolace][QA6284 Arachnophobia].
