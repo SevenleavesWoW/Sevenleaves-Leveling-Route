@@ -97,7 +97,7 @@ Then walk north towards [G26,31.4Swamp of Sorrows]The Harborage \\Accept the que
 
 Walk towards Stonard \\Accept the quest [G47.73,55.2Swamp of Sorrows][QA1418 Neeka Bloodscar]
 
-Walk north and kill Noburu The Cudgel. Pats in a W path north of Stonard. \\He drops a quest called [G47.1,38.83Swamp of Sorrows][QA1392 Noboru the Cudgel]
+Walk north and kill Noboru the Cudgel. Pats in a W path north of Stonard. \\He drops a quest called [G47.1,38.83Swamp of Sorrows][QA1392 Noboru the Cudgel]
 
 [G65.4,18.2]Walk north east \\Complete [G63.88,22.38Swamp of Sorrows][QC1389 Draenethyst Crystals] \\[L65.1,22][QC1373 Ongeku] 
 Make sure to preclear the mobs at the camps near Galen Goodward before you do [G65.46,18.16Swamp of Sorrows][QA1393 Galen's Escape]
@@ -115,7 +115,7 @@ Deliver [G28.29,77.59Stranglethorn Vale][QT577 Some Assembly Required]
 
 Go into the big building the cloest to the port/ship.  \\Buy 3 Soothing Spices from [G28.2,74.3Stranglethorn Vale]Kelsey Yance. Keep them for later.
 
-Take the boat to Ratchet \\F]Fly to Dustwallow Marsh[OC]
+Take the boat to Ratchet \\Fly to Dustwallow Marsh[OC]
 Accept [G53.74,69.84The Barrens][QA1201 Theramore Spies]
 Walk south to accept the quest [G53.71,73.78The Barrens][QA1177 Hungry!]
 
