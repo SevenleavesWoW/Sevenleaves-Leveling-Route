@@ -51,7 +51,7 @@ Walk to the Mines[G 35.4,12.5] and get [QC447 6 Skittering Blood]
 Grind mobs until you're at [XP13+8540 8540 EXP][OC] 
 |cFFFF0000Die/unstuck. Take the spirit res|r [OC]
 Run down into the cellar \\Turn in [QT437 The Dead Fields] \\Accept [QA438 The Decrepit Ferry].
-Run back up near the vendors[R] \\Turn in [QT422 Arugal's Folly Part 1] \\Accept [QA426 Arugal's Folly Part 2]
+Run back up near the vendors[R] \\Turn in [QT422 Arugal's Folly Part 1] \\Accept [QA423 Arugal's Folly Part 2]
 [F]Fly back to Undercity \\Turn in [QT447 A Recipe For Death] \\Turn in [QT1359 Zinge's Delivery][G 50.1,68 Undercity]. \\Accept [QA1358 Sample for Helbrim]
 
 
@@ -64,13 +64,13 @@ Head back to the Flight Master[G 63.22,48.51 Undercity] and [F]fly back to The S
 Run down to The Decrepid Ferry[G 58,34 Silverpine Forest] \\Take the right side path.[OC]
 Click the boat \\Turn in [QT438 The Decrepit Ferry] \\Accept [QA439 Rot Hide Clues].
 
-Head to the Mines[G 55.99,48.34 Silverpine Forest] \\Complete [QC426 Arugal's Folly Part 2].
+Head to the Mines[G 55.99,48.34 Silverpine Forest] \\Complete [QC423 Arugal's Folly Part 2].
 
 Head towards the Dalaran Crate[G 49.88,60.38 Silverpine Forest] \\Click it before you die to turn in [QT447 Border Crossings] \\Accept [QA478 Maps and Runes]
 |cFFFF0000Die/unstuck. Take the spirit res|r[OC]
 
 Run to the cellar \\Turn in [QT439 Rot Hide Clues] \\Accept [QA440 The Engraved Ring].
-Run back up the stairs \\Turn in [QT478 Maps and Runes] \\Turn in [QT426 Arugal's Folly Part 2]  \\Accept [QA424 Part 3] \\Turn in [QT439 Rot Hide Clues]
+Run back up the stairs \\Turn in [QT478 Maps and Runes] \\Turn in [QT423 Arugal's Folly Part 2]  \\Accept [QA424 Part 3] \\Turn in [QT439 Rot Hide Clues]
 Accept/turn in [QA481-][QT481 Dalar's Analysis] \\Accept/turn in [QA482-][QT482 Dalaran's Intentions].
 
 Accept [QA479 Ambermill Investigations]
