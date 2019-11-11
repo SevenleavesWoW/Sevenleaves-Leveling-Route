@@ -32,7 +32,7 @@ After the escort quest \\Turn in [QT435] \\Accept [QA449 The Deathstalkers' Repo
 
 Run to the cellar \\Turn in [QT449 The Deathstalker's Report] \\Turn in [QT429 Wild Hearts] \\Accept [QA437 The Dead Fields]  \\Accept [QA430 Return to Quinn]  \\Accept [QA3221] \\[R]Repair/sell anything you won't need or use.
 
-Run up the stairs to Apothecary Renferrel \\Turn in [QT445 Delivery to Silverpine Forest]  \\Turn in [QT3221 Speak with Renferrel] \\Accept [QA447 A Recipe For Death] \\Accept [QA1359 Zinge's Delivery] \\Accept [QA447 Border Crossings] \\Accept [QA421 Prove Your Worth].
+Run up the stairs to Apothecary Renferrel \\Turn in [QT445 Delivery to Silverpine Forest]  \\Turn in [QT3221 Speak with Renferrel] \\Accept [QA447 A Recipe For Death] \\Accept [QA1359 Zinge's Delivery] \\Accept [QA477 Border Crossings] \\Accept [QA421 Prove Your Worth].
 
 Grab the [P]Flight Path and continue down the path with the road \\Complete [QC421]
 
@@ -66,7 +66,7 @@ Click the boat \\Turn in [QT438 The Decrepit Ferry] \\Accept [QA439 Rot Hide Clu
 
 Head to the Mines[G 55.99,48.34 Silverpine Forest] \\Complete [QC426 Arugal's Folly Part 2].
 
-Head towards the Dalaran Crate[G 49.88,60.38 Silverpine Forest] \\Click it before you die to turn in [QT447 Border Crossings] \\Accept [QA478 Maps and Runes]
+Head towards the Dalaran Crate[G 49.88,60.38 Silverpine Forest] \\Click it before you die to turn in [QT477 Border Crossings] \\Accept [QA478 Maps and Runes]
 |cFFFF0000Die/unstuck. Take the spirit res|r[OC]
 
 Run to the cellar \\Turn in [QT439 Rot Hide Clues] \\Accept [QA440 The Engraved Ring].
