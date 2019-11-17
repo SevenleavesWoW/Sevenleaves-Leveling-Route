@@ -101,22 +101,22 @@ Deliver [QT1858 The Shattered Hand Part 2]. Keep the Blade of Cunning for later.
 [R]Repair & [F]fly back to The Crossroads.
 Go and deliver [G45.34,28.41The Barrens][QT850 Kolkar leaders]
 
-Accept [G35.26,27.86Stonetalon Mountains][QA1062 Goblin Invaders] & [G35.18,27.75Stonetalon Mountains][QA6548 Avenge My Village]
-Go and finish [G33.75,22.48Stonetalon Mountains][QC6548 Avenge My Village] by killing Grimtotem Ruffian and Grimtotem Mercenary.
-Run back and deliver [G35.18,27.75Stonetalon Mountains][QT6548 Avenge My Village].
-Take the follow up quest [G35.18,27.75Stonetalon Mountains][QA6629 Kill Grundig Darkcloud].
-Go kill [G31.41,22.09Stonetalon Mountains][QC6629 Grundig Darkcloud] and 6 Grimtotem Brutes
-When done do the escort quest [G29.26,21.94Stonetalon Mountains][QA6523 Protect Kaya]
+Accept [G35.26,27.86The Barrens][QA1062 Goblin Invaders] & [G35.18,27.75The Barrens][QA6548 Avenge My Village]
+Go and finish [G33.75,22.48The Barrens][QC6548 Avenge My Village] by killing Grimtotem Ruffian and Grimtotem Mercenary.
+Run back and deliver [G35.18,27.75The Barrens][QT6548 Avenge My Village].
+Take the follow up quest [G35.18,27.75The Barrens][QA6629 Kill Grundig Darkcloud].
+Go kill [G31.41,22.09The Barrens][QC6629 Grundig Darkcloud] and 6 Grimtotem Brutes
+When done do the escort quest [G29.26,21.94The Barrens][QA6523 Protect Kaya]
 When [QC6523 Protect Kaya] is finished, run straight to Xen'zilla[G 71.2,95Stonetalon Mountains] and accept [G99.35,21Stonetalon Mountains][QA6461 Blood Feeders]
 
 Keep Venom Sac and make it to Anti Venom for first aid, you will need this for later.[OC]
-Complete the quest [G19.75,16.62Stonetalon Mountains][QC6461 Blood Feeders] make sure to have killed all Deepmoss Creeper by the place the road splits on your way there.
+Complete the quest [G19.75,16.62The Barrens][QC6461 Blood Feeders] make sure to have killed all Deepmoss Creeper by the place the road splits on your way there.
 
-Run into Sun Rock Retreat[G 47.2,64.2 Stonetalon Mountains] and take the quests [QA6562 Trouble In The Deeps] and [G16.6,11.56Stonetalon Mountains][QA6421 Boulderslide Ravine]
+Run into Sun Rock Retreat[G 47.2,64.2 Stonetalon Mountains] and take the quests [QA6562 Trouble In The Deeps] and [G16.6,11.56The Barrens][QA6421 Boulderslide Ravine]
 Walk to Ziz Fizziks[G 59,62.6Stonetalon Mountains] and deliver your quest [G22.28,10.86Stonetalon Mountains][QT1483 Ziz Fizziks] and accept [G22.28,10.86Stonetalon Mountains][QA1093 Super Reaper 6000]
 
 Super Reaper Blueprints are dropped by Operators[OC]
-Go and finish the 4 quests \\[G19.52,16.03Stonetalon Mountains][QC1069 Deepmoss Spiders Eggs] \\[G24.13,6.15Stonetalon Mountains][QC1093 Super Reaper 6000] \\[G26.77,6.4Stonetalon Mountains][QC1062 Goblin Invaders] \\[G19.75,16.62Stonetalon Mountains][QC6461 Blood Feeders]
+Go and finish the 4 quests \\[G19.52,16.03The Barrens][QC1069 Deepmoss Spiders Eggs] \\[G24.13,6.15Stonetalon Mountains][QC1093 Super Reaper 6000] \\[G26.77,6.4Stonetalon Mountains][QC1062 Goblin Invaders] \\[G19.75,16.62Stonetalon Mountains][QC6461 Blood Feeders]
 Go back and turn in [G24.13,6.15Stonetalon Mountains][QC1093 Super Reaper 6000] and accept the follow up quest [G22.28,10.86Stonetalon Mountains][QA1094 Further Instructions]
 [H Hearth to Ratchet] Hearth back to Ratchet
 
