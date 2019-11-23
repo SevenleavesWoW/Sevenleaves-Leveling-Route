@@ -3,7 +3,7 @@ Guidelime.registerGuide([[
 [N18-21 Barrens]
 [GA Horde]
 
-Turn in the following: \\[G62.36,37.61The Barrens][QT1069 Deepmoss Spider Eggs] \\[G68.94,70.79The Barrens][QT1094Further Instructions] 
+Turn in the following: \\[G62.36,37.61The Barrens][QT1069 Deepmoss Spider Eggs] \\[G63.00,37.20The Barrens][QT1094Further Instructions] 
 Accept [G68.94,70.79The Barrens][QA1095Further Instructions Part 2] 
 
 Turn in the following: \\[G62.36,37.61The Barrens][QT1069 Deepmoss Spider Eggs] \\[QT1094 Further Instructions] \\Accept [QA1095 Further Instructions Part 2] 

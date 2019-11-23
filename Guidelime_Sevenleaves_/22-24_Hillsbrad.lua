@@ -16,16 +16,17 @@ After walk over and complete [G17.84,16.25Arathi Highlands][QC549 Wanted: Syndic
 
 [V]Buy BOE bracers and pants from Kris Legace[G 80.2,39 Hillsbrad Foothills] behind the Jailor’s location.[OC]
 When the 3 quests are done go out and start on Elixir of Suffering make sure to get Creeper Ichor and farm a few Gray Bear Tongues[OC]
-Run back to Tarren Mill and turn in [G62.15,82.53Alterac Mountains][QT498 The Rescue], [G61.11,82.3Alterac Mountains][QT549 WANTED: Syndicate Personnel], [QT1066 Blood of Innocents]. Accept [G60.86,81.44Alterac Mountains][QA546 Souvenirs of Death]
+Run back to Tarren Mill and turn in [G62.15,82.53Alterac Mountains][QT498 The Rescue], [G61.11,82.3Alterac Mountains][QT549 WANTED: Syndicate Personnel], [QT1066 Blood of Innocents].
 
 
 
 Head west towards Battle for Hillsbrad & kill all the Lions and Bears you can on the way towards Elixir of Pain and Elixir of Suffering.[OC]
 Do [G33.87,38.98Hillsbrad Foothills][QC527 Battle of Hillsbrad Part 1]
 Run back to Tarren Mill. Make sure to finish both quests [G33.46,84.73Alterac Mountains][QC501 Elixir of Pain] and [G36.76,54.21Hillsbrad Foothills][QC496 Elixir of Suffering] before you arrive.
-Turn in [G61.11,82.3Alterac Mountains][QT527 Battle for Hillsbrad Part 1] & accept [G61.11,82.3Alterac Mountains][QA528 Battle of Hillsbrad Part 2] 
+Turn in [G61.11,82.3Alterac Mountains][QT527 Battle for Hillsbrad Part 1] & accept [G61.11,82.3Alterac Mountains][QA528 Battle of Hillsbrad Part 2]
+Accept [G60.86,81.44Alterac Mountains][QA546 Souvenirs of Death]
 Turn in [G60.09,80.71Alterac Mountains][QT501 Elixir of Pain] and [G60.09,80.71Alterac Mountains][QT496 Elixir of Suffering]
-Accept [G60.09,80.71Alterac Mountains][QA502 Elixir of Suffering Part 2]and [G27.21,99.29Alterac Mountains][QT502 turn it in] to Umpi. Accept Elixir of Pain part 2 as well.
+Accept [G60.09,80.71Alterac Mountains][QA499 Elixir of Suffering Part 2]and [G27.21,99.29Alterac Mountains][QT499 turn it in] to Umpi. Accept Elixir of Pain part 2 as well.
 
 
 
@@ -36,6 +37,7 @@ Walk up to the northern part of the farms and give Stanley the potion to complet
 
 Deliver [G61.11,82.3Alterac Mountains][QT528 Battle of Hillsbrad Part 2] and accept [G61.11,82.3Alterac Mountains][QA529 Battle of Hillsbrad Part 3]
 Go over and kill the Blacksmiths for [G31.81,45.33Hillsbrad Foothills][QC529 Battle of Hillsbrad Part 3]. When the quest is done, die on purpose and [G61.11,82.3Alterac Mountains][QT529 deliver the quest]
+Accept [G60.09,80.71Alterac Mountains][QA1067 Return to Thunder Bluff]
 Walk over to [V]Ott[G 60.4,26.2] and buy a Broad Bladed Knife.[OC]
 [F]Fly to Sepulcher and deliver [G43.97,40.93Silverpine Forest][QT480 The Weaver] and [G43.97,40.93Silverpine Forest][QT516 Beren’s Peril]
 Now [F]fly to Undercity and deliver [G62.01,42.74Undercity][QT530 A Husband’s Revenge] 
