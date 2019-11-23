@@ -38,7 +38,7 @@ After [G54.75,5.55The Barrens][QC2478 picklock the box][A Rogue] at the top and 
 
 
 Back at Org, deliver [QT2478 Mission: Possible But Not Probable] and accept the quest [QA2479 Hinott’s Assistance]
-Buy level 22 throwns in ORG & head to Brill to turn in [QT440 The Engraved Ring][G 61.3,50.8] & pick up [QA441 Raleigh and the Undercity]
+Buy level 22 throwns in ORG & head to Brill to turn in [G 61.3,50.8 Tirisfal Glades][QT440 The Engraved Ring] & pick up [QA441 Raleigh and the Undercity]
 
 
 Go to Undercity and deliver [G62.01,42.74Undercity][QT441 Raleigh and the Undercity] & accept [G62.01,42.74Undercity][QA530 A Husband’s Revenge]
