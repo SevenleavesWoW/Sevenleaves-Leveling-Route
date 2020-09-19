@@ -180,7 +180,7 @@ Turn in \\[QT871 Disrupt the Attacks][QT5041 Supplies for the Crossroads][O]
 |cFFFF0000Die/unstuck. Take the spirit res|r[OC]
 Head back to [G 41.6,18.6 Durotar] to accept/turn in[QA812-][QT812 Need for a Cure]. 
 Head outside to the Zeppelin outside and head to Brill. Make sure you grind waiting for it to come and make bandages when you're on the Zep.[OC]
-Once your loading screen appears, use the Unstuck command or jump off at the farms to res in Brill to die.[O]
+Once your loading screen appears, use the Unstuck command or jump off at the farms to die and res in Brill.[O]
 
 [NX12-15 Brill/Silverpine]
 
